@@ -1,3 +1,4 @@
 # NebulaPax Game Engine
-## What is Nebula Pax
-NebulaPax Engine is my interactive experiment game engine. Mine main aimwith it is to get a solid grip on game engine and C++ development.
+
+## What is NebulaPax
+NebulaPax is a 2D/3D game engine written in C++. This engine have a Intermediate Rendering mode based on raylib

@@ -1,10 +1,10 @@
 # NebulaPax Game Engine (WIP)
 
 ## What is NebulaPax
-NebulaPax is a 2D/3D game engine written in C++. 
+NebulaPax is a 2D/3D game engine written in C++. The engine is based on CMAKE building system.
 
 ## Goals:
-- Using a Build system (CMAKE)
+~~- Using a Build system (CMAKE)~~
 - Building a ECS system
 - Develop a simple renderer (raylib)
 - Create a scripting API base on LUA
